@@ -1,0 +1,4 @@
+(function() {var implementors = {
+"sp_api":[],
+"sp_genesis_builder":[["impl&lt;Block: <a class=\"trait\" href=\"sp_runtime/traits/trait.Block.html\" title=\"trait sp_runtime::traits::Block\">BlockT</a>&gt; <a class=\"trait\" href=\"sp_api/trait.RuntimeApiInfo.html\" title=\"trait sp_api::RuntimeApiInfo\">RuntimeApiInfo</a> for dyn <a class=\"trait\" href=\"sp_genesis_builder/trait.GenesisBuilder.html\" title=\"trait sp_genesis_builder::GenesisBuilder\">GenesisBuilder</a>&lt;Block&gt;"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["SIZE_OBJECT_VECTORS","SIZE_STRINGS"],"struct":["Attestation","Schema","SchemaField"]};

@@ -1,0 +1,4 @@
+(function() {var implementors = {
+"frame_system":[["impl&lt;T: <a class=\"trait\" href=\"frame_system/pallet/trait.Config.html\" title=\"trait frame_system::pallet::Config\">Config</a>&gt; <a class=\"trait\" href=\"sp_runtime/trait.BuildStorage.html\" title=\"trait sp_runtime::BuildStorage\">BuildStorage</a> for <a class=\"struct\" href=\"frame_system/pallet/struct.GenesisConfig.html\" title=\"struct frame_system::pallet::GenesisConfig\">GenesisConfig</a>&lt;T&gt;"]],
+"sp_runtime":[]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
